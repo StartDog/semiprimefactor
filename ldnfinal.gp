@@ -16,6 +16,8 @@ find the factor of a semiprime by looking at its structure
 Thomas Kellar
 copyright 
 
+set n equal to your number to factor around line 76
+
 10 June 2020
 
 In this application I found parigp to be much faster than
@@ -71,6 +73,9 @@ print("Last edit 10 June 2020 Going Down Final...");
 n1 = nextprime(4411944655);
 n2 = nextprime(5111855533);
 n = n1*n2;
+
+\\ set n equal to your number to factor
+
 
 lim = sqrtint(n);
 
