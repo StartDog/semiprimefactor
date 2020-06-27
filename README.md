@@ -9,9 +9,16 @@ one is the ldnfinal.gp.  Pollard's Rho is fun as well.  Chosing
 the starting 3 factors for this particular implementation is a
 interesting challenge. (Sorry for using the word interesting too
 much.) With the right starting factors, any number could be factored
-quickly.  But I have not really found good general starting factors.
+quickly.  But I have not really found good general starting factors 
+nor any method for chosing good factors - have found bad ones.
+The ldnfinal.gp is actually faster than pollard's rho in many
+situations. Of course if you really want speed you want the
+cado-nfs program which is not located on github but is located
+on https://gitlab.inria.fr
 
+the language is Pari gp which I found to be much faster than 
+Python - especially with large numbers.  I am a fan of Python
+though really a fan of any language except java.
 
-the language is Pari gp which I found to be much faster than Python - especially with large numbers.
 
 
