@@ -24,7 +24,8 @@ I am of the belief that it should be possible to find an algorithm
 to instantly factor semi-primes. I have been unable to find that
 algorithm as yet.
 
-
-
+A lot of help in this came From Samuel S. Wagstaff, Jr's wonderful
+book called _The Joy of Factoring_ which Wright State University
+wonderfully let me borrow for ever and ever.
 
 
