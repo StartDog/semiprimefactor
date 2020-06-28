@@ -15,7 +15,8 @@ good factors though I have found bad ones. The ldnfinal.gp is
 sometimes faster than John Pollard's Rho in many situations but mostly 
 slower. Of course if you really want speed you want the
 cado-nfs program which is not located on github but is located
-on https://gitlab.inria.fr  Though it is quite hefty. 
+on https://gitlab.inria.fr  Though it is quite hefty. All these Pari-gp
+programs are intended to run on a single CPU. 
 
 The language is Pari gp which I found to be much faster than 
 Python - especially with large numbers.  I am a fan of Python
