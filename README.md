@@ -11,7 +11,7 @@ interesting challenge. (Sorry for using the word interesting too
 much.) With the right starting factors, any number could be factored
 quickly.  But I have not really found good general starting factors 
 nor any method for chosing good factors though I have found bad ones.
-The ldnfinal.gp is actually faster than John Pollard's Rho in many
+The ldnfinal.gp is sometimes faster than John Pollard's Rho in many
 situations. Of course if you really want speed you want the
 cado-nfs program which is not located on github but is located
 on https://gitlab.inria.fr  Though it is quite hefty. 
