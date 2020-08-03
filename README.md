@@ -30,4 +30,6 @@ A lot of help in this came From Samuel S. Wagstaff, Jr's wonderful
 book called _The Joy of Factoring_ which Wright State University
 wonderfully let me borrow for ever and ever.
 
+epzsq is simply a combination of Pollard's Rho and Fermat.
+
 
