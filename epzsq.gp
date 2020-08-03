@@ -5,11 +5,15 @@ allocatemem(1000000000);
 \\ combines Pollard's Rho and Fermat together.
 \\ not fasterer but checks both
 
+
 n1 = nextprime(92341111511111);
 n2 = nextprime(83451111111111);
 n1 = nextprime(923411511111);
 n2 = nextprime(834511111111);
+\\ just put your n below
 n = n1*n2;
+n = 34234234234234234234;
+
 
 print("n1:",n1);
 print("n2:",n2);
@@ -45,7 +49,7 @@ y = (y*y + p)%n;
 y = (y*y + p)%n;
 
 c = y - m;
-if (c == 0,print("zero"););
+\\if (c == 0,print("zero"););
 d = gcd(c,n);
 if (d > 1 && d != n,
     print(cnt," m:",mm," y:",yy," p:",pp," rc:",gcd(c,n));
