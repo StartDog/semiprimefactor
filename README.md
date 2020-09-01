@@ -32,4 +32,7 @@ wonderfully let me borrow for ever and ever.
 
 epzsq is simply a combination of Pollard's Rho and Fermat.
 
+epzsqa is a combination of Pollards Rho, Fermat, and Euler
+
+
 
