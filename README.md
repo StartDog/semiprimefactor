@@ -1,5 +1,6 @@
 # semiprimefactor
-some simple programs to factor semiprimes
+Some simple programs to factor semiprimes - all written in pari gp  
+github seems to think they are some other language. 
 
 I am interested in semiprimes - mostly due to RSA encryption but 
 they have an interest outside of that as well.  I am interested
