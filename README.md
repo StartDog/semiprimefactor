@@ -34,7 +34,7 @@ epzsq is simply a combination of Pollard's Rho and Fermat.
 
 epzsqa is a combination of Pollards Rho, Fermat, and Euler
 
-efnfinal is a compbination of Euler, Fermat and a brute force mechanism 
+efnfinal is a combination of Euler, Fermat and a brute force mechanism 
    which is faster than Euler but slower (sometimes) than Fermat, though
    sometimes faster. Euler is not always successful but Fermat is and the 
    other is.  Finding the initial parameters is the real problem.  I.e., 
