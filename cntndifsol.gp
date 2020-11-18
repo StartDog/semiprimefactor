@@ -3,6 +3,13 @@
 \\default(parisizemax,8000000000);
 \p41;
 
+/*
+
+This program counts the number of solutions, i.e., factors, found 
+brute force searching from the square root of n to n.
+typically the count is equal to the 2*sqrt(n)
+
+*/
 
 \\ odd fucntion for parigp
 odd(xx) = xx%2;
