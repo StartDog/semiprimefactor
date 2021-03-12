@@ -2,6 +2,8 @@
 Some simple programs to factor semiprimes - all written in pari gp  
 github seems to think they are some other language.
 
+Not gnuplot!!!!
+
 language: https://pari.math.u-bordeaux.fr/
 
 I am interested in semiprimes - mostly due to RSA encryption but 
